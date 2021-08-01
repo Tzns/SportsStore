@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\sportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\sportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\sportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\sportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\thica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\thica\\Desktop\\Thiago\\Git\\SportsSln\\sportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thica\\AppData\\Roaming\\NuGet\\NuGet.Config"
