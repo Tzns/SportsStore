@@ -27,9 +27,12 @@ namespace SportsStore
         {
             services.AddControllersWithViews();
             services.AddDbContext<StoreDbContext> (opts => {
-                ops.UseSqlServer(
+                opts.UseSqlServer(
                     Configuration["ConnectionStrings: SportsStoreConnection"]);                
             });
+//usando a palavra conection string, para referenciar o nome que foi dado  a conexao no appsettings.json
+
+
             services.AddScoped<IStoreRepository, EFStoreRepository>();
             /*/The AddScoped method creates a service where each HTTP request gets its own repository object, which is the way that Entity
 Framework Core is typically used./*/
